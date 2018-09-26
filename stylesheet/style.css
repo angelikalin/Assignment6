@@ -1,0 +1,36 @@
+div{
+	width: 40%;
+	height: 100px;
+	border: 1px solid pink; 
+	margin: 25px;
+	background-color: grey;
+}
+
+.divOne{
+	margin: auto;
+
+}
+
+.divTwo{
+	display: inline-block; 
+}
+
+.divThree{
+	display: inline-block;
+}
+
+.divFour{
+	position: absolute;
+
+}
+.divFour2{
+	position: absolute;
+	background-color: orange;
+	height: 15px;
+	width: 15px;
+	margin: 0px;
+	bottom: 0;
+	right: 0;
+}
+
+
