@@ -6,6 +6,7 @@ div{
 	background-color: grey;
 }
 
+/*should've use id instead of class because id is for specific ones*/
 .divOne{
 	margin: auto;
 
@@ -20,7 +21,7 @@ div{
 }
 
 .divFour{
-	position: absolute;
+	position: relative;
 
 }
 .divFour2{
